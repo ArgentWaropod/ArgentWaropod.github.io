@@ -6,3 +6,5 @@ main:
     url: /Projects/
   - title: "Contact Information"
     url: /Contact/
+  - title: "Blog"
+    url: /Blog/
