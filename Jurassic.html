@@ -1,35 +1,26 @@
 ---
 title: "Don't Jurassic Up"
-layout: splash
+layout: single
+author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/ProjectHeadder.png
-intro: 
-  - excerpt: 'Welcome to the home of our project page. Here you will gaze upon our many wonderful projects.'
-feature_row:
-  - image_path: assets/images/DJIThumb.png
-    alt: "Don't Jurassic Up Image"
-    title: "Don't Jurassic Up"
-    excerpt: "Can you manage the world's second greatest dinosaur theme park? Only if you Don't Jurassic Up"
-    url: "/Jurassic/"
-    btn_label: "GO!"
-    btn_class: "btn--primary"
-  - image_path: assets/images/UndThumb.png
-    alt: "Undesirables Image"
-    title: "The Undesirables"
-    excerpt: "Face off against S.P.I.T.E and their fearsome mechanical foe in this 2D Sidescrolling Boss Fight!"
-    url: "/Undesirables/"
-    btn_label: "GO!"
-    btn_class: "btn--primary"
-  - image_path: assets/images/HydraThumb.png
-    title: "Challenge of the Hydra"
-    excerpt: "Face off against a mythological monster in this action packed VR arena. Cut off the heads!"
-    url: "/Challenge/"
-    btn_label: "GO!"
-    btn_class: "btn--primary"
+  overlay_image: /assets/images/Jurassicgif.gif
+    actions:
+    - label: "Download"
+    url: "https://github.com/mmistakes/minimal-mistakes/"
 ---
+<H1>Don't Jurassic Up</H1>
 
-{% include feature_row id="intro" type="center" %}
+Details:
 
-{% include feature_row %}
+System: Windows PC
+Engine: Unity
+Players: 1
+Developed as part of NHTI's AGGP 101 Program
+Controls: Shift to Summon Action Menu
+
+This project was the first full game I created while I was at NHTI. Harkening back to the park builders I grew up with, Don't Jurassic Up was a humorous take on the subject, with feeding Lawyers to Dinosaurs to getting scammed by fake scientists.
+
+The main thing this project showcases is Serialization. Each of the events are a serialized object, which saved out to an XML file and is read by the game to provide the event system.
+
