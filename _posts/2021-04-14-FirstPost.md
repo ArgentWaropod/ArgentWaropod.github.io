@@ -1,6 +1,6 @@
 ---
 title: "First Post"
-date: 2021-04-14-FirstPost.html
+date: 2021-04-14
 ---
 
 Lemme see if this blog post works before I try anything crazy.
