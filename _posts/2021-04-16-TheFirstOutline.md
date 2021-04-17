@@ -16,7 +16,8 @@ The goal for this project is a simple 1V1 fighting game that plays similarly to 
 
 Overall, a relatively simple concept, in the grand scheme of things. Now all I needed was a theme. Fortunately, I already had one in mind.
 
-![](/assets/images/Sandbag.pngintagetoys-byscotttucker.jpeg)
+![](/assets/images/vintagetoys-byscotttucker.jpeg)
+
 *Pictured: A fantastic financial decision. From Dallas Observer*
 
 To the surprise of absolutely nobody, I'm a bit of a toy collector myself. I mostly stick to Transformers, but I dabble in everything from Gundam to Lego. It's a pretty fun hobby, and one that I think would make for a perfect fighting game. There's such a variety in what people make toys of that any single property has enough characters to make it's own solo fighting game out of. And since we're already taking cues out of Smash Bros, why not create a game that crosses over a bunch of characters from various series to create a fighting game out of. Obviously, I don't have the budget for the actual properties I'd be using for characters, but analogues to those franchises could still be pretty aproachable. Plus, the variety of the ways people interact with toys allows for varied characters, stages, and plot ideas. For example, in the Toy Story series, in just the first three movies, the films cover...
@@ -51,6 +52,7 @@ This would take some narrowing down. Fortunately, there's four characters that I
 These four I think will form the perfect baseline for characters in the game. They're varied, weird, and help establish the tone and style of future characters.
 
 ![](/assets/images/universal-fighting-engine-basic-15839.jpg)
+
 *Pictured: A much more reasonable financial decision.*
 
 But with the design out of the way, it's time to focus on technicals. Thankfully, I know the seniors of NHTI's AGGP Class of 2020 did a fighting game, so I might be able to ask them for help if I ever need it, but there was something else that caught my eye. Unity's very own Universal Fighting Engine, a custom built system that's designed to help out with creating new fighting games in the Unity engine. It seems to be pretty strong and has already powered a few notable games before it. One problem: It's paid for, and I'm not sure what I have for a "budget", so to say. Maybe I'll try to make the engine myself, maybe I'll buy it and build the game off of it, we'll have to see where I'm at when I get around to that stage of the project.
