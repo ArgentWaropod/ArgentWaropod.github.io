@@ -104,7 +104,7 @@ author:
       url: "mailto:7RyanBlack@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://ArgentWaropod.github.io"
+      url: "/HomePage/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Argentenoboy"
